@@ -1,0 +1,19 @@
+{
+    "name": "ralfmaxxx/phpmd_variable_lifetime",
+    "description": "Deliver PHPMD variable lifetime rule",
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Phpmd\\Extension\\Rule\\": "src/Phpmd/Extension/Rule"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rafal Kanski",
+            "email": "rafal.kanski@schibsted.pl"
+        }
+    ],
+    "require": {
+        "phpmd/phpmd": "^2.4"
+    }
+}
