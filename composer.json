@@ -7,6 +7,9 @@
             "Phpmd\\Extension\\Rule\\": "src/Phpmd/Extension/Rule"
         }
     },
+    "keywords": [
+        "php"
+    ],
     "authors": [
         {
             "name": "Rafal Kanski",
